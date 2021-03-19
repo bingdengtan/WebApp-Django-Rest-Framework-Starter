@@ -4,7 +4,7 @@ cryptography==2.3
 Django==2.1
 django-cors-headers==2.4.0
 django-rest-framework-mongoengine==3.3.1
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 idna==2.7
 mongoengine==0.15.3
